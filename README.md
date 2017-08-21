@@ -1,4 +1,4 @@
-# Slimframwork-CRUD
-Tutorial crud slimframwork dengan angularjs. semoga dapat membantu
+# ReactJs CRUD with REST API
+Tutorial crud menggunakan reactjs dengan rest API
 Nama  : Agung Rifqi Hidayat
 Web   : NVMCode.com
